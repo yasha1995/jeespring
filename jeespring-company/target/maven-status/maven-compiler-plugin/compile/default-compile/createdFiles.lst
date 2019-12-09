@@ -1,0 +1,16 @@
+cn\com\duiba\credits\sdk\CreditTool.class
+cn\com\duiba\credits\sdk\entity\CreditConsumeParams.class
+cn\com\duiba\credits\sdk\result\CreditConsumeResult.class
+cn\com\duiba\credits\sdk\BulidUrl.class
+cn\com\duiba\credits\sdk\result\AddCreditResult.class
+cn\com\duiba\credits\sdk\entity\CreditNeedAuditParams.class
+cn\com\duiba\credits\sdk\AssembleTool.class
+cn\com\duiba\credits\sdk\entity\CreditAuditParams.class
+com\company\project\modules\duiba\duibaRestController.class
+cn\com\duiba\credits\sdk\entity\VirtualParams.class
+cn\com\duiba\credits\sdk\entity\CreditNotifyParams.class
+cn\com\duiba\credits\sdk\SignTool.class
+cn\com\duiba\credits\sdk\entity\CreditConfirmParams.class
+cn\com\duiba\credits\sdk\entity\AddCreditsParams.class
+cn\com\duiba\credits\sdk\result\VirtualResult.class
+cn\com\duiba\credits\sdk\entity\ExpressInfo.class
